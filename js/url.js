@@ -1,5 +1,5 @@
 function aurl(){
-    window.location.href = "https://wwb.lanzouj.com/iYVlN01vu3qh"
+    window.location.href = "https://wwb.lanzouj.com/imWGy02f81xa"
 }
 function iurl(){
     alert("暂未开放")
